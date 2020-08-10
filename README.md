@@ -4,8 +4,8 @@ A simple node socket listener that will display console messages from a specific
 ### Install:
 npm install
 
-### Edit the simple-xumm-socket-listener.js file with your own UUID from Xumm payment endpoint response 
+### Edit the simple-xumm-socket-listener.js file with your own UUID from Xumm payment endpoint response: 
 const url = 'wss://xumm.app/sign/your_UUID_here'
 
-### Run
+### Run:
 node simple-xumm-socket-listener.js
