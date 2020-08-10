@@ -1,0 +1,14 @@
+{
+  "name": "simple-xumm-socket-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-xumm-socket-listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}
